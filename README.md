@@ -1,12 +1,12 @@
 # AdditionandReplacement
 Code for the model on addition and replacement of E. coli infections
 
-You need to install Wolfram Mathematica (We used version 12.1) to run the code. 
+This is the code for the calculations when time is set to infinity.
 
-Three branches yield the codes for prections in 10 years, 50 years and when time is set to infinity. 
+It does not matter which file you run first, each file can be run independently. The file can be split in sections, run the section in chronological order, otherwise errors will be produced. For each mechanism, run the entire file, otherwise incorrect results will be produced.
 
-Each branch contains a read me file.
+Each mechanisms code contains the neutral code and is then expended with the mechanism.
 
-Each mechanism has a seperate code file, which you can run to get the results for that mechanism.
+At the end of the code a table is printed containing the results.
 
-Good luck!
+Enjoy!
